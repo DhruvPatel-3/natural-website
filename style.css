@@ -1,0 +1,109 @@
+.body-first{
+    background-color: white;
+    height: 100vh;
+    padding: 10px;
+}
+
+/* home page --------------------------------------------------------------------------*/
+
+.home{
+    background-image: url("https://img.freepik.com/free-vector/watercolor-floral-background_23-2149652754.jpg?w=1060&t=st=1706336482~exp=1706337082~hmac=37522f3223e421da157f42561a9f6730be0bd2373fc8abd771306f7502ad44bc");
+    height: 90vh;
+    background-size: cover;
+    background-color: transparent;
+}
+
+.home1-heading{
+    font-size: 80px;
+    font-weight: 500;
+    margin-top: 290px;
+    color: #355d42;
+}
+
+.home-paragraph{
+    font-size: 25px;
+    color: #355d42;
+}
+
+.home-line{
+    background-color: #355d42;
+    padding: 3px;
+    width: 80px;
+    border-radius: 50px;
+    margin-left: 120px;
+}
+
+/* latest articles --------------------------------------------------------------------------*/
+
+.latest-articles{
+    background-color: #fff7f8;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.articles-heading{
+    margin-top: 150px;
+    font-size: 25px;
+    color: #355d42;
+}
+
+.articles-line{
+    background-color: #355d42;
+    padding: 3px;
+    width: 80px;
+    border-radius: 50px;
+    margin-left: 60px;
+}
+
+.articles-writing{
+    background-color: white;
+    padding: 30px;
+    margin-bottom: 150px;
+}
+
+.articles-writing-line{
+    background-color: #355d42;
+    padding: 3px;
+    height: 1px;
+    width: 80px;
+    border-radius: 50px;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-bottom: 25px;
+}
+
+/* about line --------------------------------------------------------------------------*/
+
+.about-line{
+    background-color: #355d42;
+    padding: 3px;
+    width: 80px;
+    border-radius: 50px;
+    margin-left: 15px;
+}
+
+/* footer section --------------------------------------------------------------------------*/
+
+.subscribe{
+    background-color: #fff7f8;
+    height: 70vh;
+}
+
+.subscribe-section{
+    padding-top: 230px;
+}
+
+.footer{
+    background-color: white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.footer-icon{
+    border: 1px solid #355d42;
+    padding: 10px;
+    border-radius: 50px;
+    background-color: #355d42;
+    color: white;
+    font-size: 20px;
+}
